@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Local editor and agent-tooling state
+.idea/
+.claude/
+.claude-flow/
